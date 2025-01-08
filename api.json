@@ -1,8 +1,8 @@
 {
   "schlienz": {
     "get-tours": {
-      "url": "",
-      "method": "",
+      "url": "https://prod-10.germanywestcentral.logic.azure.com/workflows/5c3d553c707c40dab2793723a40e6ec8/triggers/manual/paths/invoke/{phonenumber}/{deviceId}?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=2zvIO8I_vVnaI_7DukXaKlKRqsTYbp1QbpzHVX8F5YI",
+      "method": "GET",
       "params": {}
     }
   }
